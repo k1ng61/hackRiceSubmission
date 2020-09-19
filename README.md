@@ -1,2 +1,2 @@
 # hackRiceSubmission
-HackRice Submission
+Collabs
